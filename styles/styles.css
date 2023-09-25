@@ -1,0 +1,11 @@
+div{
+    text-align: center;
+}
+button{
+    background-color: blue;
+    color: white;
+    border: none; 
+}
+li{
+    text-align: left;
+}
